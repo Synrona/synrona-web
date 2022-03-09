@@ -1,1 +1,1 @@
-# synrona-web
+# Synrona Website
